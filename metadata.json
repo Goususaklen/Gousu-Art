@@ -1,0 +1,6 @@
+{
+  "name": "GOUSU SWARM",
+  "description": "AI-Powered Multi-Cursor Website Reconstruction and Swarm Intelligence Command Center",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
